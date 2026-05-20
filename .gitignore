@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv311/
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# MacOS files
+.DS_Store
